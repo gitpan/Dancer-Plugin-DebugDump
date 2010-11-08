@@ -1,7 +1,7 @@
 --- #YAML:1.0
 name:               Dancer-Plugin-DebugDump
-version:            0.01
-abstract:           dump objects to debug log with Data::Dumper
+version:            0.02
+abstract:           dump objects to debug log with Data::Dump
 author:
     - David Precious <davidp@preshweb.co.uk>
 license:            perl
